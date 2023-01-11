@@ -6,8 +6,8 @@ on:
     types:
       - completed
       
-      obs:
+ jobs:
   world:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "World" 
+      - run: echo "World"
